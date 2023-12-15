@@ -1,0 +1,43 @@
+    1  git -- version
+    2  git version
+    3  git config global user.name 'Paco López'
+    4  git config --global user.name 'Paco Lopez'
+    5  git config --global user.email paco@gmail.com
+    6  git config --list
+    7  ls
+    8  dir
+    9  cd Downloads/
+   10  mkdir ejemplo-git
+   11  cd ejemplo-git/
+   12  git init
+   13  ls -la
+   14  ls -a
+   15  ls- la
+   16  dir .git
+   17  ls
+   18  cat hola.txt 
+   19  cat hola.txt |less
+   20  git status
+   21  git add hola.txt 
+   22  git sta
+   23  git status 
+   24  git commit -m "añado hola.txt"
+   25  git status 
+   26  git log
+   27  git branch -v
+   28  ls
+   29  git status
+   30  touch adios.txt
+   31  ld
+   32  ls
+   33  echo "MilaRf" >> nombre.txt
+   34  cat nombre.txt
+   35  git status 
+   36  git add .
+   37  git status
+   38  git commit
+   39  git commit
+   40  git status
+   41  git log
+   42  history
+   43  history >> historiadehoy.txt
